@@ -1,6 +1,6 @@
 import math
 import random
-
+#chatgpt was consulted to help create this code.
 
 def truncated_lognormal_sample(mu, sigma, d_min, d_max, size=1):
     """
