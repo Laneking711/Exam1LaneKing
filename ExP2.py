@@ -6,6 +6,8 @@ import NumMet as nm  # Make sure NumMet.py is available for Simpson integration
 #endregion
 ##############################################################################
 #Chatgpt was consulted to assist in the production of this code
+#Previous Homework 3 used in some places
+#Professor smays homework 3 solution used as refference 
 ##############################################################################
 # region: truncated lognormal + mean/variance
 def truncated_lognormal_sample(mu, sigma, d_min, d_max, size=1):
