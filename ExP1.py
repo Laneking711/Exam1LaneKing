@@ -1,6 +1,8 @@
 import math
 import random
 #chatgpt was consulted to help create this code.
+#Previous homework 3 was used as refference
+#Dr. Smays homework 3 solution was used as refference.
 
 def truncated_lognormal_sample(mu, sigma, d_min, d_max, size=1):
     """
